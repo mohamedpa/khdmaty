@@ -1,0 +1,26 @@
+{
+  "systemusers": [
+    {
+      "name": "mohamed",
+      "email": "mohamed@gmail.com",
+      "password": "87654321",
+      "phone": "01203743103",
+      "type": "customer",
+      "address": "minia",
+      "government": "minia",
+      "city": "minia",
+      "id": 1
+    },
+    {
+      "name": "ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "12345678",
+      "phone": "332432423",
+      "type": "customer",
+      "address": "cairo",
+      "government": "cairo",
+      "city": "cairo",
+      "id": 2
+    }
+  ]
+}

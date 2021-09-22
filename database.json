@@ -1,0 +1,73 @@
+{
+  "City": [
+    {
+      "Id": 1,
+      "Name": "Minia"
+    },
+    {
+      "Id": 2,
+      "Name": "New Minia"
+    },
+    {
+      "Id": 3,
+      "Name": "Malawi"
+    },
+    {
+      "Id": 4,
+      "Name": "Bani Mazar"
+    }
+  ],
+  "Government": [
+    {
+      "Id": 1,
+      "Name": "Cairo"
+    },
+    {
+      "Id": 2,
+      "Name": "Minia"
+    },
+    {
+      "Id": 3,
+      "Name": "Alex"
+    },
+    {
+      "Id": 4,
+      "Name": "Asuuit"
+    }
+  ],
+  "systemusers": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "phone": "",
+      "address": "",
+      "government": "",
+      "city": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "phone": "",
+      "type": "customer",
+      "address": "",
+      "government": "",
+      "city": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "phone": "",
+      "type": "customer",
+      "address": "",
+      "government": "",
+      "city": "",
+      "id": 3
+    }
+  ],
+  "customerorders": []
+}
